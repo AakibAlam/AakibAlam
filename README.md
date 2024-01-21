@@ -1,5 +1,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=AakibAlam.AakibAlam" />
 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=AakibAlam.visitor-badge&format=true)
+
 
                                                         Hello World!!
 Hi, I am Md Aakib Alam Ansari, a final-year undergraduate student at IIT Kanpur. I am passionate about software development. I am also interested in competitive programming and regularly participate in contests over codeforces and CodeChef.
