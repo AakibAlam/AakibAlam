@@ -15,7 +15,7 @@
 </ul>
 
 
-<div align="center" style="margin: 10;">
+<div align="center" style="margin: 20;">
     <picture>
         <source
             srcset="https://streak-stats.demolab.com?user=AakibAlam&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
@@ -40,6 +40,13 @@
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AakibAlam&layout=compact&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&&hide_border=true" height="200" />
     </picture>
+</div>
+
+<div align="center">
+    <h3> My Handles </h3>
+    <a href="https://www.linkedin.com/in/aakib-alam/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
 </div>
 
 
