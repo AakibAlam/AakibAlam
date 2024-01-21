@@ -15,7 +15,7 @@
 </ul>
 
 
-<div align="center" style="margin: 20;">
+<div align="center" style="margin: 200;">
     <picture>
         <source
             srcset="https://streak-stats.demolab.com?user=AakibAlam&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
@@ -42,9 +42,10 @@
     </picture>
 </div>
 
-<div align="center" style="display: flex; gap: 10px; align-items: center; justify-content: center;">
+<div align="center">
     <h3> My Handles </h3>
     <a href="https://www.linkedin.com/in/aakib-alam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://twitter.com/aakib_alam20/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
     <a href="https://codeforces.com/profile/sultan__"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
     <a href="https://www.codechef.com/users/temp0rary"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
 </div>
