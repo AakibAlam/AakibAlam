@@ -19,7 +19,6 @@
             srcset="https://streak-stats.demolab.com?user=AakibAlam" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://streak-stats.demolab.com?user=AakibAlam" alt="GitHub Streak" />
     </picture>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AakibAlam" alt="GitHub Streak" /></a>
 </div>
 <div align="center">
     <picture>
@@ -34,6 +33,6 @@
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AakibAlam&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
         <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AakibAlam&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" height="200" />
     </picture>
 </div>
