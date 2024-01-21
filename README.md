@@ -15,10 +15,10 @@
 <div align="center" margin="100">
     <picture>
         <source
-            srcset="https://streak-stats.demolab.com?user=AakibAlam&theme=dark" media="(prefers-color-scheme: dark)" />
+            srcset="https://streak-stats.demolab.com?user=AakibAlam&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
         <source
-            srcset="https://streak-stats.demolab.com?user=AakibAlam" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://streak-stats.demolab.com?user=AakibAlam" alt="GitHub Streak" />
+            srcset="https://streak-stats.demolab.com?user=AakibAlam&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://streak-stats.demolab.com?user=AakibAlam&hide_border=true" alt="GitHub Streak" />
     </picture>
 </div>
 <br/>
@@ -32,9 +32,9 @@
     </picture>
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AakibAlam&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AakibAlam&layout=compact&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
         <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AakibAlam&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&border_color=transparent" height="200" />
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AakibAlam&layout=compact&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&&hide_border=true" height="200" />
     </picture>
 </div>
