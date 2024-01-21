@@ -13,7 +13,7 @@
 </h3>
 
 <h3 align="center">
-    You can visit my Portfolio website to know more about me. You can also connect with me on <a href="https://www.linkedin.com/in/aakib-alam/">LinkedIn</a> or reach out to me via <b>Gmail</b>: <a href="mailto:aakib1e97@gmail.com">aakib1e97@gmail.com</a>.
+    You can visit my Portfolio website to know more about me. You can also connect with me on <a href="https://www.linkedin.com/in/aakib-alam/">LinkedIn</a> or reach out to me via <a href="mailto:aakib1e97@gmail.com">email</a>: aakib1e97@gmail.com.
 </h3>
 
 </div>
