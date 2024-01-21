@@ -23,7 +23,6 @@
         <img src="https://streak-stats.demolab.com?user=AakibAlam&hide_border=true" alt="GitHub Streak" />
     </picture>
 </div>
-<br/>
 <div align="center" style="margin: 10;">
     <picture>
         <source
@@ -40,7 +39,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&&hide_border=true" height="200" />
     </picture>
 </div>
-
+<br/>
 <div align="center">
     <picture>
         <source
