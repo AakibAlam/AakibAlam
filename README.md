@@ -12,6 +12,13 @@
 
 
 <div align="center">
+    <picture>
+        <source
+            srcset="https://streak-stats.demolab.com?user=AakibAlam&theme=dark" media="(prefers-color-scheme: dark)" />
+        <source
+            srcset="https://streak-stats.demolab.com?user=AakibAlam" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://streak-stats.demolab.com?user=AakibAlam" alt="GitHub Streak" />
+    </picture>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AakibAlam" alt="GitHub Streak" /></a>
 </div>
 <div align="center">
