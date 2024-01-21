@@ -6,9 +6,21 @@
     </a>
 </h1>
 
+<div>
+
 <h3 align="center">
-    Hi, I am Md Aakib Alam Ansari, a final-year undergraduate student at IIT Kanpur. I am passionate about software development. I am also interested in competitive programming and regularly participate in contests on <a href="https://codeforces.com/">codeforces</a> and <a href="https://www.codechef.com/">CodeChef</a>.
+    Hi, I am Md Aakib Alam Ansari, a final-year undergraduate student at IIT Kanpur. I am passionate about software development. I am also interested in competitive programming and regularly participate in contests on <a href="https://codeforces.com/">Codeforces</a> and <a href="https://www.codechef.com/">CodeChef</a>.
 </h3>
+
+<h3 align="center">
+    Please feel free to clone or fork any of my projects, raise issues, and submit pull requests if you have ideas for improvement. Your contributions are always welcome!   
+</h3>
+
+<h3 align="center">
+    You can visit my Portfolio website to know more about me. You can also connect with me on LinkedIn or reach out to me via Gmail.
+</h3>
+
+</div>
 
 <br/> <br/>
 
@@ -38,3 +50,5 @@
         <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&&hide_border=true" height="200" />
     </picture>
 </div>
+
+
