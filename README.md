@@ -7,14 +7,18 @@
 </h1>
 
 <h3 align="center">
-    Hi, I am Md Aakib Alam Ansari, a final-year undergraduate student at IIT Kanpur. I am passionate about software development. I am also interested in competitive programming and regularly participate in contests over codeforces and CodeChef.
+    Hi, I am Md Aakib Alam Ansari, a final-year undergraduate student at IIT Kanpur. I am passionate about software development. I am also interested in competitive programming and regularly participate in contests on codeforces and CodeChef.
 </h3>
 
 
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AakibAlam&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AakibAlam&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AakibAlam&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AakibAlam&hide=contribs,prs)
+<div align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AakibAlam" alt="GitHub Streak" /></a>
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+    </picture>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Languages" /></a>
+</div>
