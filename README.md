@@ -42,11 +42,11 @@
     </picture>
 </div>
 
-<div align="center">
+<div align="center" style="display: flex; gap: 10px; align-items: center; justify-content: center;">
     <h3> My Handles </h3>
-    <a style="margin-right:10px;" href="https://www.linkedin.com/in/aakib-alam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a style="margin:10;" href="https://codeforces.com/profile/sultan__"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
-    <a style="margin:10;" href="https://www.codechef.com/users/temp0rary"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/aakib-alam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://codeforces.com/profile/sultan__"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
+    <a href="https://www.codechef.com/users/temp0rary"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
 </div>
 
 
