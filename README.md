@@ -13,12 +13,21 @@
 
 <div align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AakibAlam" alt="GitHub Streak" /></a>
+</div>
+<div>
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+            srcset="https://github-readme-stats.vercel.app/api?username=AakibAlam&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
         <source
-            srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+            srcset="https://github-readme-stats.vercel.app/api?username=AakibAlam&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=AakibAlam&show_icons=true" />
+    </picture>
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=AakibAlam&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=AakibAlam&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
     </picture>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Languages" /></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakibAlam&layout=compact&" alt="Top Languages" /></a>
 </div>
