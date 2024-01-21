@@ -11,7 +11,7 @@
 </h3>
 
 
-<div align="center">
+<div align="center" padding="10">
     <picture>
         <source
             srcset="https://streak-stats.demolab.com?user=AakibAlam&theme=dark" media="(prefers-color-scheme: dark)" />
@@ -20,7 +20,7 @@
         <img src="https://streak-stats.demolab.com?user=AakibAlam" alt="GitHub Streak" />
     </picture>
 </div>
-<div align="center">
+<div align="center" padding="10">
     <picture>
         <source
             srcset="https://github-readme-stats.vercel.app/api?username=AakibAlam&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
