@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-    Hi, I am Md Aakib Alam Ansari, a final-year undergraduate student at IIT Kanpur. I am passionate about software development. I am also interested in competitive programming and regularly participate in contests on codeforces and CodeChef.
+    Hi, I am Md Aakib Alam Ansari, a final-year undergraduate student at IIT Kanpur. I am passionate about software development. I am also interested in competitive programming and regularly participate in contests on <a href="https://codeforces.com/">codeforces</a> and <a href="https://www.codechef.com/">CodeChef</a>.
 </h3>
 
 <br/> <br/>
