@@ -1,9 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AakibAlam.AakibAlam" />
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hello+there!" alt="Typing SVG" />
-    </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=800&lines=Hello+there%2C+fellow+developers!+%F0%9F%91%8B;Welcome+to+my+GitHub+space" alt="Typing SVG" /></a>
 </h1>
 
 <ul>
@@ -14,8 +12,9 @@
     <li>You can contact me through email - <a href="mailto:aakib1e97@gmail.com">aakib1e97@gmail.com</a></li>
 </ul>
 
+<br/>
 
-<div align="center" style="margin: 200;">
+<div align="center">
     <picture>
         <source
             srcset="https://streak-stats.demolab.com?user=AakibAlam&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
