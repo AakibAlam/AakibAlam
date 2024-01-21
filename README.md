@@ -10,6 +10,7 @@
     Hi, I am Md Aakib Alam Ansari, a final-year undergraduate student at IIT Kanpur. I am passionate about software development. I am also interested in competitive programming and regularly participate in contests on codeforces and CodeChef.
 </h3>
 
+<br/> <br/>
 
 <div align="center" margin="100">
     <picture>
