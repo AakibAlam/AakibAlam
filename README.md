@@ -8,9 +8,11 @@
 
 <div>
 
-<h3 align="center">
-    Hi, I am Md Aakib Alam Ansari, a final-year undergraduate student at IIT Kanpur. I am passionate about software development. I am also interested in competitive programming and regularly participate in contests on <a href="https://codeforces.com/">Codeforces</a> and <a href="https://www.codechef.com/">CodeChef</a>.
-</h3>
+<ul align="center">
+    <li>I am Md Aakib Alam Ansari, a final-year undergraduate at IIT Kanpur</li>
+    <li>I am passionate about software development and exploring new technologies</li>
+    <li>I am also interested in competitive programming and regularly participate in contests</li>
+</ul>
 
 <h3 align="center">
     You can visit my <a href="https://aa0808.netlify.app/">Portfolio</a> website to know more about me. You can also connect with me on <a href="https://www.linkedin.com/in/aakib-alam/">LinkedIn</a> or reach out to me via <a href="mailto:aakib1e97@gmail.com">email</a>: aakib1e97@gmail.com.
