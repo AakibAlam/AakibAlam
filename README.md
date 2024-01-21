@@ -42,6 +42,16 @@
 </div>
 
 <div align="center">
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sultan__&layout=compact&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sultan__&layout=compact&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sultan__&layout=compact&hide_border=true" height="200" />
+    </picture>
+</div>
+
+<div align="center">
     <h3> My Handles </h3>
     <a href="https://www.linkedin.com/in/aakib-alam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://twitter.com/aakib_alam20/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
