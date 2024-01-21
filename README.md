@@ -6,8 +6,6 @@
     </a>
 </h1>
 
-<div>
-
 <ul>
     <li>I am Md Aakib Alam Ansari, a final-year undergraduate student at IIT Kanpur</li>
     <li>I am passionate about software development and exploring new technologies</li>
@@ -16,11 +14,8 @@
     <li>You can contact me through email - <a href="mailto:aakib1e97@gmail.com">aakib1e97@gmail.com</a></li>
 </ul>
 
-</div>
 
-<br/> <br/>
-
-<div align="center" margin="100">
+<div align="center" style="margin: 10;">
     <picture>
         <source
             srcset="https://streak-stats.demolab.com?user=AakibAlam&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
@@ -30,7 +25,7 @@
     </picture>
 </div>
 <br/>
-<div align="center" margin="100">
+<div align="center" style="margin: 10;">
     <picture>
         <source
             srcset="https://github-readme-stats.vercel.app/api?username=AakibAlam&show_icons=true&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
