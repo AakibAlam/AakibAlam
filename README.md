@@ -13,11 +13,7 @@
 </h3>
 
 <h3 align="center">
-    Please feel free to clone or fork any of my projects, raise issues, and submit pull requests if you have ideas for improvement. Your contributions are always welcome!   
-</h3>
-
-<h3 align="center">
-    You can visit my Portfolio website to know more about me. You can also connect with me on LinkedIn or reach out to me via Gmail.
+    You can visit my Portfolio website to know more about me. You can also connect with me on <a href="https://www.linkedin.com/in/aakib-alam/">LinkedIn</a> or reach out to me via **Gmail**: <a>aakib1e97@gmail.com</a>.
 </h3>
 
 </div>
