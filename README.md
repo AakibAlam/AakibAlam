@@ -44,11 +44,10 @@
 
 <div align="center">
     <h3> My Handles </h3>
-    <a href="https://www.linkedin.com/in/aakib-alam/">
+    <a  style="margin:2" href="https://www.linkedin.com/in/aakib-alam/">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <br/>
-    <a href="https://codeforces.com/profile/sultan__">
+    <a  style="margin:2" href="https://codeforces.com/profile/sultan__">
             <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
     </a>
     <br/>
