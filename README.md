@@ -44,14 +44,14 @@
 
 <div align="center">
     <h3> My Handles </h3>
-    <a style="margin:2" href="https://www.linkedin.com/in/aakib-alam/">
-            <img style="margin:2" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a style="margin:2;" href="https://www.linkedin.com/in/aakib-alam/">
+            <img style="margin:2;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a style="margin:2" style="margin:2" href="https://codeforces.com/profile/sultan__">
-            <img style="margin:2" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+    <a style="margin:2;" href="https://codeforces.com/profile/sultan__">
+            <img style="margin:2;" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
     </a>
-    <a style="margin:2" href="https://www.codechef.com/users/temp0rary">
-            <img style="margin:2" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" />
+    <a style="margin:2;" href="https://www.codechef.com/users/temp0rary">
+            <img style="margin:2;" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" />
     </a>
 </div>
 
