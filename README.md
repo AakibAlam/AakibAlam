@@ -34,10 +34,10 @@
     </picture>
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AakibAlam&exclude_repo=movie-recommender-system,codeforces-submission-scraping&layout=compact&theme=dark&hide_border=true&langs_count=8" media="(prefers-color-scheme: dark)" />
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AakibAlam&exclude_repo=codeforces-submission-scraping&layout=compact&theme=dark&hide_border=true&langs_count=8" media="(prefers-color-scheme: dark)" />
         <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AakibAlam&exclude_repo=movie-recommender-system,codeforces-submission-scraping&layout=compact&hide_border=true&langs_count=8" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api?username=AakibAlam&exclude_repo=movie-recommender-system,codeforces-submission-scraping&show_icons=true&&hide_border=true&langs_count=8" height="200" />
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AakibAlam&exclude_repo=codeforces-submission-scraping&layout=compact&hide_border=true&langs_count=8" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=AakibAlam&exclude_repo=codeforces-submission-scraping&show_icons=true&&hide_border=true&langs_count=8" height="200" />
     </picture>
 </div>
 <br/>
