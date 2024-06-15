@@ -8,7 +8,7 @@
     <li>I am Md Aakib Alam Ansari, a final-year undergraduate student at IIT Kanpur</li>
     <li>I am passionate about software development and exploring new technologies</li>
     <li>I am also interested in competitive programming and regularly participate in contests</li>
-    <li>You can visit my <a href="https://aa0808.netlify.app/">Portfolio</a> website to know more about me</li>
+    <li>You can visit my <a href="https://aakib.netlify.app/">Portfolio</a> website to know more about me</li>
     <li>You can contact me through email - <a href="mailto:aakib1e97@gmail.com">aakib1e97@gmail.com</a></li>
 </ul>
 
