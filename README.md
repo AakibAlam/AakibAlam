@@ -5,7 +5,7 @@
 </h1>
 
 <ul>
-    <li>I’m Md Aakib Alam Ansari, a Blockchain Engineer at Magpie XYZ, working on secure and efficient smart contract development in the DeFi space.</li>
+    <li>Blockchain Engineer at Magpie XYZ, working on secure and efficient smart contract development in the DeFi space.</li>
     <li>Passionate about decentralized finance, blockchain technology, and exploring new innovations in Web3.</li>
     <li>I also enjoy competitive programming and regularly participate in coding contests.</li>
     <li>Check out my <a href="https://aakib.netlify.app/">Portfolio</a> to know more about my work.</li>
